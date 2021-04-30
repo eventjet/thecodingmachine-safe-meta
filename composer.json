@@ -7,6 +7,9 @@
         "php": "^8.0",
         "thecodingmachine/safe8": "^0.1"
     },
+    "provide": {
+        "thecodingmachine/safe": "^1.3"
+    },
     "config": {
         "sort-packages": true
     },
