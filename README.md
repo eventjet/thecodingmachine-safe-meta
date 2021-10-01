@@ -1,5 +1,11 @@
 # thecodingmachine/safe Meta Package
 
+## Abandoned!
+
+As `thecodingmachine/safe` was
+again "[un-deprecated](https://github.com/thecodingmachine/safe/commit/56ab9335d67c505d6eeae411584e2066e7a1ac0e)"
+this meta-package is no longer needed. A big thank you to all involved people! 🙂
+
 ## What is this?
 
 This package is a small wrapper to allow installing [`thecodingmachine/safe`](https://github.com/thecodingmachine/safe)
